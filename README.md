@@ -4,8 +4,8 @@ TacomaSpace Legend Widget - Customization creates CSV layer on map and removes c
 Version 2.12
 
 INSTRUCTIONS:
-1. Copy RelatedRecordsPopupProjector.js to \jimu.js\RelatedRecordsPopupProjector.js
-2. Copy Legend folder to \widgets\Legend
+1. Copy Legend folder to \widgets\Legend
+2. Copy RelatedRecordsPopupProjector.js to \jimu.js\RelatedRecordsPopupProjector.js
 
 
 Notes:
