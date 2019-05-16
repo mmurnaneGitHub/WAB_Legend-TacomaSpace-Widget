@@ -1,5 +1,5 @@
 ## WAB_Legend-TacomaSpace-Widget
-TacomaSpace Legend Widget - Customization creates CSV layer on map and removes console errors on related records popup.
+Legend Widget for TacomaSpace (https://wspdsmap.cityoftacoma.org/website/tacomaspace/) - Customization creates CSV layer on map and removes console errors on related records popup.
 
 Version 2.12
 
